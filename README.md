@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Languages**
 
-- 💬 Ask me about **Game hacking  photoshop**
+- 💬 Ask me about **Game hacking , account hacking , photoshop**
 
 - 📫 How to reach me **Koalacraze@hotmail.com**
 
