@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouri joshi</h1>
-<h3 align="center">A passionate photo and vidio editor from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruj7516&label=Profile%20views&color=0e75b6&style=flat" alt="guruj7516" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Languages**
 
-- 💬 Ask me about **Game hacking ....Photoshoot , photography, photoshop**
+- 💬 Ask me about **Game hacking  photoshop**
 
 - 📫 How to reach me **Koalacraze@hotmail.com**
 
