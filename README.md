@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruj7516&label=Profile%20views&color=0e75b6&style=flat" alt="guruj7516" /> </p>
-
+img align="right" alt="Coding" width="400" https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI
 - 🔭 I’m currently working on **My skills**
 
 - 🌱 I’m currently learning **Web development**
